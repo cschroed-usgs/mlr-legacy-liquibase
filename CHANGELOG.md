@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 - mlr-liquibase/mlr_legacy/tables/legacyLocation/changeLog.yml
 ### Added
-- mlr-liquibase/mlr_legacy/tables/legacyLocation/uniqueStationNameConstraint.sql, create constraint to prevent duplicate station names
+- mlr-liquibase/mlr_legacy/tables/legacyLocation/uniqueStationIxConstraint.sql, create constraint to prevent duplicate normalized station names
 
 ## [v2.1] 2018-09-13 - kmschoep@usgs.gov
 ### Changed
